@@ -1,0 +1,14 @@
+html {
+    background-color: lightpink;
+}
+
+body {
+    text-align: center;
+    font-size: x-large;
+    font-style: italic;
+}
+
+ul a:hover {
+    text-decoration: none;
+    background-color: maroon;
+}

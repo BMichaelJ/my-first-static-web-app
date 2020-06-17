@@ -1,0 +1,9 @@
+body {
+    background-color: darkred;
+}
+
+.group a:hover {
+    background-color: dimgrey;
+    padding-left: 10px;
+    padding-right: 10px;
+}
